@@ -46,7 +46,7 @@
 
 Информационно-логическая модель (ИЛМ) представлена ниже.  
 
-!(img_1.png)
+![Информационно-логическая модель](https://raw.githubusercontent.com/d0pus/projects/main/Data_Projects/Inventory_Management_System_DB/img/img_1.png)
 
 ---
 
